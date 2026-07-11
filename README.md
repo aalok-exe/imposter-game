@@ -107,6 +107,7 @@ opening/rebuilding in Android Studio — the native project only sees what's
 in `dist/`.
 
 ## Ideas for v2
+##<b>Coming Soon</b>
 
 - Custom word packs (let players type in their own word before the game)
 - A "spicy" difficulty: clues that are much closer to the real word
